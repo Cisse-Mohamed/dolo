@@ -3,3 +3,15 @@ le <div class="mb-3">
     <textarea class="form-control" name="" id="" rows="3"></textarea>
 </div>
 lorem
+<div class="d-flex align-items-end">
+    <div class="flex-shrink-0">
+        <img src="#" alt="" width="300" />
+    </div>
+    <div class="flex-grow-1 ms-3">
+        <h5 class="mt-0">Media heading</h5>
+        <p>
+            This is some content from a media component. You can replace
+            this with any content and adjust it as needed.
+        </p>
+    </div>
+</div>
